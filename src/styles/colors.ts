@@ -7,5 +7,13 @@ export default {
   body_dark: "#738078",
   body_light: "#AAB2AD",
 
+  background: "#FFF",
+  shape: "#F0F0F0",
   white: "#FFF",
+  gray: "#CFCFCF",
+
+  blue: "#3D1799",
+  blue_light: "#EBF6FF",
+
+  red: "#E83F58"
 }
