@@ -3,10 +3,8 @@ import { NavigationContainer } from '@react-navigation/native';
 
 import StackRoutes from './stack.routes';
 
-const Routes = () => (
+export const Routes = () => (
   <NavigationContainer>
-    <StackRoutes></StackRoutes>
+    <StackRoutes />
   </NavigationContainer>
 )
-
-export default Routes;
